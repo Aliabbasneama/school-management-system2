@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Facade;
 use Illuminate\Support\ServiceProvider;
 use Yoeunes\Toastr\RepoServiceProvider;
 
+
 return [
 
     /*
